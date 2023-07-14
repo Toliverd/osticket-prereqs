@@ -14,7 +14,7 @@
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
-
+- MacOS
 <h2>List of Prerequisites</h2>
 
 - STEP 1 - Logging Into osTicket
